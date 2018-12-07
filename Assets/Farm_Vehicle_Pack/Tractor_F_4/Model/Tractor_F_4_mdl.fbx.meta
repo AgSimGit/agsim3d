@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 95ba2488d0a48be49b0423ed27b34e0d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: FrontExtensionHand
+    100002: FrontExtensionHandD1
+    100004: FrontExtensionHandU1
+    100006: FrontExtensionHandUp
+    100008: FrontExtensionHandUp1
+    100010: FrontMiddleROT
+    100012: HighL1
+    100014: HighL2
+    100016: HighR1
+    100018: HighR2
+    100020: HookROT
+    100022: HookTopROT
+    100024: HookTopROT1
+    100026: LowL1
+    100028: LowL2
+    100030: LowR1
+    100032: LowR2
+    100034: LowROT
+    100036: Main
+    100038: root
+    100040: Rot_BL
+    100042: Rot_BR
+    100044: Rot_FL
+    100046: Rot_FR
+    100048: ShaftFrontROT
+    100050: ShaftROT
+    100052: StaticL1
+    100054: StaticL2
+    100056: StaticR1
+    100058: StaticR2
+    100060: Steering
+    100062: Tractor_F_4_Engine_lod0
+    100064: Tractor_F_4_Glass_lod0
+    100066: Tractor_F_4_Interior_lod0
+    100068: Tractor_F_4_lod0
+    100070: //RootNode
+    100072: Turn_FL
+    100074: Turn_FR
+    100076: WiperB
+    100078: WiperF
+    400000: FrontExtensionHand
+    400002: FrontExtensionHandD1
+    400004: FrontExtensionHandU1
+    400006: FrontExtensionHandUp
+    400008: FrontExtensionHandUp1
+    400010: FrontMiddleROT
+    400012: HighL1
+    400014: HighL2
+    400016: HighR1
+    400018: HighR2
+    400020: HookROT
+    400022: HookTopROT
+    400024: HookTopROT1
+    400026: LowL1
+    400028: LowL2
+    400030: LowR1
+    400032: LowR2
+    400034: LowROT
+    400036: Main
+    400038: root
+    400040: Rot_BL
+    400042: Rot_BR
+    400044: Rot_FL
+    400046: Rot_FR
+    400048: ShaftFrontROT
+    400050: ShaftROT
+    400052: StaticL1
+    400054: StaticL2
+    400056: StaticR1
+    400058: StaticR2
+    400060: Steering
+    400062: Tractor_F_4_Engine_lod0
+    400064: Tractor_F_4_Glass_lod0
+    400066: Tractor_F_4_Interior_lod0
+    400068: Tractor_F_4_lod0
+    400070: //RootNode
+    400072: Turn_FL
+    400074: Turn_FR
+    400076: WiperB
+    400078: WiperF
+    2300000: Tractor_F_4_Engine_lod0
+    2300002: Tractor_F_4_Glass_lod0
+    2300004: Tractor_F_4_Interior_lod0
+    3300000: Tractor_F_4_Engine_lod0
+    3300002: Tractor_F_4_Glass_lod0
+    3300004: Tractor_F_4_Interior_lod0
+    4300000: Tractor_F_4_lod0
+    4300002: Tractor_F_4_Interior_lod0
+    4300004: Tractor_F_4_Engine_lod0
+    4300006: Tractor_F_4_Glass_lod0
+    9500000: //RootNode
+    13700000: Tractor_F_4_lod0
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tractor_F_4_Glass_mat
+    second: {fileID: 2100000, guid: e88a6309673bebf4d96c7e0d0aba5a40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tractor_F_4_Interior_mat
+    second: {fileID: 2100000, guid: 01d2acab26106d64e8efbc54568c9ec8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tractor_F_4_mat
+    second: {fileID: 2100000, guid: fe5f9b50fd35ae24ea3a31eed54a8b28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tractor_F_Engine_mat
+    second: {fileID: 2100000, guid: 593e2bebcada0e946980db51168e68f4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
